@@ -1,7 +1,7 @@
 ### Sobre mim 👋
 
 - Professor de Matemática e Física 👍
-- **@Leandro Marcos Weizenmann**  [email] (leandro.weizenmann@escola.pr.gov.br)
+- **@Leandro Marcos Weizenmann**  [email](leandro.weizenmann@escola.pr.gov.br)
 - Professor iniciante na programação
 - Muito interessado em aprofundar os conhecimentos.
 
