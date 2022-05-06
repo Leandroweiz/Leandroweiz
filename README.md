@@ -5,6 +5,7 @@
 - Professor iniciante na programação
 - Muito interessado em aprofundar os conhecimentos.
 
+- Vamos pensar logicamente... 🦖
 <!--
 **Leandroweiz/Leandroweiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
